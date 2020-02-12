@@ -119,7 +119,7 @@ Partial Class MainForm
         Me.MaximumSize = New System.Drawing.Size(500, 350)
         Me.MinimumSize = New System.Drawing.Size(500, 350)
         Me.Name = "MainForm"
-        Me.Text = "Get Docs"
+        Me.Text = "Get Docs 1.0"
         Me.StatusStrip1.ResumeLayout(False)
         Me.StatusStrip1.PerformLayout()
         Me.GroupBox1.ResumeLayout(False)

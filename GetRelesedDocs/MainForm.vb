@@ -1,6 +1,6 @@
 ﻿Public Class MainForm
     Private Sub MainForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Txt_FilePath.Text = "\\whidbey\data_server\Released Documents"
+        Txt_FilePath.Text = "\\orcas\data_server\Released Documents"
     End Sub
 
     Private Sub Btn_Go_Click(sender As Object, e As EventArgs) Handles Btn_Go.Click
